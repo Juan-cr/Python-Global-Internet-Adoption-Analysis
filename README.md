@@ -6,8 +6,6 @@ This project analyzes the growth of internet adoption worldwide using historical
 
 The analysis combines data from multiple sources to calculate the percentage of the global population connected to the internet over time and identify key adoption milestones. Additionally, the project explores internet adoption in South America to determine when more than half of the region's population gained internet access.
 
-This project was completed as part of the Cisco Data Science Essentials with Python learning path and demonstrates foundational data analysis skills using Python.
-
 ---
 
 ## Demo Link
