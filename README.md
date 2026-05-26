@@ -8,14 +8,6 @@ The analysis combines data from multiple sources to calculate the percentage of 
 
 ---
 
-## Demo Link
-
-GitHub Repository:
-
-[Repository Link Here]
-
----
-
 ## Table of Contents
 
 - Business Understanding
@@ -65,21 +57,18 @@ The datasets were merged using common year and continent fields to calculate int
 
 ### Global Internet Adoption Trend
 
-Insert screenshot of the internet adoption line chart here.
+<img width="642" height="493" alt="image" src="https://github.com/user-attachments/assets/1daa99cc-55b5-4050-9bae-6196edd33ae2" />
 
-Example:
-
-```text
-images/global-internet-adoption.png
-```
 
 ### Global Adoption Surpasses 50%
 
-Insert screenshot of the output showing the first year internet adoption exceeded 50%.
+<img width="578" height="202" alt="image" src="https://github.com/user-attachments/assets/fbf41d70-1011-4c18-b02c-e01d3c141e6d" />
+
 
 ### South America Adoption Milestone
 
-Insert screenshot showing the first year South America exceeded 50% internet adoption.
+<img width="1061" height="180" alt="image" src="https://github.com/user-attachments/assets/3da4a087-51a0-4c89-8f40-c61ec5e55df5" />
+
 
 ---
 
@@ -181,8 +170,6 @@ Created a line chart to visualize global internet adoption over time and identif
 
 **Version:** 1.0
 
-This project serves as a beginner data analytics portfolio project demonstrating the use of Python for data analysis and visualization.
-
 ---
 
 ## Credits
@@ -196,7 +183,3 @@ This project serves as a beginner data analytics portfolio project demonstrating
 ### Author
 
 Juan Carlos Pascual
-
-### Acknowledgements
-
-This project was completed as part of hands-on practice in data analysis using Python.
